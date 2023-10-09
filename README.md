@@ -1,6 +1,6 @@
 # Clustering-Poverty-Levels-in-Lampung-Province-Using-K-Means-Algorithm
 
-This notebook groups regions in Lampung province into several clusters based on K-means algorithm and Elbow method.
+This notebook groups regions in Lampung province into several clusters based on the K-means algorithm and the Elbow method.
 determination of the K value is done by the elbow method resulting in a K value of 2 clusters
 ![image](https://github.com/MeltingSnow21/Clustering-Poverty-Levels-in-Lampung-Province-Using-K-Means-Algorithm/assets/119511042/4adc2edd-b504-4184-8110-3f570c920820)
 
